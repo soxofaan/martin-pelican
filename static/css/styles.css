@@ -75,9 +75,13 @@ p, ul, pre, table {
 }
 
 code, pre {
-    font-size: 14px;
+    font-size: 0.8em;
     color: #222;
     background-color: #f5fafc;
+}
+
+pre code {
+    font-size: 1em;
 }
 
 pre {
