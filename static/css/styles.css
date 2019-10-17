@@ -87,7 +87,7 @@ pre code {
 pre {
     line-height: 1.4;
     padding: 0.5em;
-    overflow: scroll;
+    overflow: auto;
     border: 1px solid #e4f2f7;
 }
 
